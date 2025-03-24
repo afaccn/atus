@@ -1,8 +1,13 @@
 // script.js
 const websites = [
     { name: "zlibrary", url: "https://zh.z-lib.uk/" },
-    { name: "百度", url: "https://www.baidu.com" },
-    { name: "Grok3", url: "https://www.x.ai" }
+    { name: "zlibrary", url: "https://zh.kid1412.biz/" },
+    { name: "zlibrary", url: "https://zh.101ml.top/" },
+    { name: "24hbook", url: "https://24hbook.store/" },
+    { name: "鸠摩搜书", url: "https://www.jiumodiary.com/" },
+    { name: "谷歌学术", url: "https://scholar.hacks.tools/" },
+    { name: "谷歌镜像", url: "https://so.linkedbus.com/" }
+    { name: "AI Grok3", url: "https://x.ai/" }
 ];
 
 const tbody = document.getElementById('websiteTable');
