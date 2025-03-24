@@ -6,77 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>网站状态检查（使用iframe，带超时）</title>
     <style>
-        table {
-            margin: 20px auto;
-            padding: 15px;
-            background-color: #f9f9f9;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            border-collapse: collapse;
-        }
-        @media screen and (min-width: 768px) {
-            table {
-                width: 40%;
-            }
-        }
-        @media screen and (max-width: 767px) {
-            table {
-                width: 90%;
-            }
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-        th:first-child, td:first-child {
-            text-align: left;
-        }
-        th:not(:first-child), td:not(:first-child) {
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-            color: #2c3e50;
-            font-weight: bold;
-        }
-        .status-checking {
-            color: gray;
-        }
-        .status-success {
-            color: green;
-        }
-        .status-failure {
-            color: red;
-        }
-        iframe {
-            display: none;
-        }
-        .open-btn {
-            padding: 4px 8px;
-            cursor: pointer;
-            background-color: #4CAF50;
-            color: white;
-            border: none;
-            border-radius: 4px;
-            transition: background-color 0.3s;
-        }
-        .open-btn:hover {
-            background-color: #45a049;
-        }
         .header-container {
             margin: 20px auto;
             text-align: center;
-            width: 40%;
-        }
-        @media screen and (min-width: 768px) {
-            .header-container {
-                width: 40%;
-            }
-        }
-        @media screen and (max-width: 767px) {
-            .header-container {
-                width: 90%;
-            }
         }
         .header-text {
             font-size: 28px;
@@ -85,11 +17,6 @@
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3), 
                         -2px -2px 4px rgba(255, 255, 255, 0.5);
             letter-spacing: 2px;
-        }
-        @media screen and (max-width: 767px) {
-            .header-text {
-                font-size: 20px;
-            }
         }
         .sub-text {
             font-size: 12px;
@@ -100,72 +27,15 @@
             line-height: 1.4;
             word-wrap: break-word;
         }
-        @media screen and (max-width: 767px) {
-            .sub-text {
-                font-size: 10px;
-            }
-        }
-        .clearfix::after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-        .principle-container {
-            margin: 20px auto;
-            padding: 15px;
-            background-color: #f9f9f9;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            font-size: 14px;
-            line-height: 1.6;
-            color: #333;
-        }
-        @media screen and (min-width: 768px) {
-            .principle-container {
-                width: 40%;
-            }
-        }
-        @media screen and (max-width: 767px) {
-            .principle-container {
-                width: 90%;
-            }
-        }
-        .principle-title {
-            color: #2c3e50;
-            font-weight: bold;
-            margin-bottom: 10px;
-            font-size: 16px;
-        }
     </style>
 </head>
 <body>
-    <div class="header-container clearfix">
+    <div class="header-container">
         <div class="header-text">AUTO US 网址线路检测</div>
-        <div class="sub-text">请注意：所有网址均来自互联网，非本站搭建，AUTO US仅提供网址线路检测</div>
+        <div class="sub-text">请注意：您访问了错误的页面，正在跳转至可访问页面！</div>
     </div>
-    <table>
-        <thead>
-            <tr>
-                <th>访问网站</th>
-                <th>当前状态</th>
-                <th>       </th>
-            </tr>
-        </thead>
-        <tbody id="websiteTable"></tbody>
-    </table>
-
-    <div class="principle-container">
-        <div class="principle-title">检测原理说明</div>
-        <p>本工具通过以下方式检测网站状态：</p>
-        <p>1. 基于用户网络环境，创建临时的 iframe 元素，尝试加载目标网站</p>
-        <p>2. 设置 5 秒超时限制（TIMEOUT = 5000ms）</p>
-        <p>3. 判断结果：</p>
-        <p>  - 若后台成功加载（onload），显示“链接正常”</p>
-        <p>  - 若加载出错（onerror），显示“链接失败”</p>
-        <p>  - 若 5 秒内无响应，显示“链接失败（超时）”</p>
-        <p>4. 检测完成后自动移除临时iframe 元素，避免因重复测试影响页面性能</p>
-    </div>
-
-    <script src="/script.js"></script>
+    <script>
+        window.location.href = "https://us.atus.us/";
+    </script>
 </body>
 </html>
