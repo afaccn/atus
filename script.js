@@ -1,9 +1,9 @@
 // script.js
 const websites = [
-    { name: "zlibrary", url: "https://z-lib.life/" },
+    { name: "zlibrary", url: "https://zh.101ml.gay/" },
     { name: "zlibrary", url: "https://z-lib.uk/" },
     { name: "zlibrary", url: "https://zh.kid1412.biz/" },
-    { name: "AI Grok3", url: "https://x.ai/" }
+    { name: "zlibrary", url: "https://myzlib.deno.dev/" }
 ];
 
 const tbody = document.getElementById('websiteTable');
