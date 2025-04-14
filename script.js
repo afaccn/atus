@@ -1,1 +1,71 @@
-var _0xodK='jsjiami.com.v7';function _0x1d89(_0x244019,_0xd3866b){const _0xe3a86=_0xe3a8();return _0x1d89=function(_0x1d890c,_0x2f1137){_0x1d890c=_0x1d890c-0xe8;let _0x3aeaa2=_0xe3a86[_0x1d890c];if(_0x1d89['bQUije']===undefined){var _0x238b3b=function(_0xd9b201){const _0x388aab='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xa13612='',_0x1ed9ed='';for(let _0x3c785a=0x0,_0x2feaff,_0x33f219,_0x13eacf=0x0;_0x33f219=_0xd9b201['charAt'](_0x13eacf++);~_0x33f219&&(_0x2feaff=_0x3c785a%0x4?_0x2feaff*0x40+_0x33f219:_0x33f219,_0x3c785a++%0x4)?_0xa13612+=String['fromCharCode'](0xff&_0x2feaff>>(-0x2*_0x3c785a&0x6)):0x0){_0x33f219=_0x388aab['indexOf'](_0x33f219);}for(let _0x2c9624=0x0,_0x1f31e3=_0xa13612['length'];_0x2c9624<_0x1f31e3;_0x2c9624++){_0x1ed9ed+='%'+('00'+_0xa13612['charCodeAt'](_0x2c9624)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1ed9ed);};const _0x3ab772=function(_0x3eddd0,_0x4eca9d){let _0xbc1e0d=[],_0x1f9000=0x0,_0x1166fc,_0x2c1a7f='';_0x3eddd0=_0x238b3b(_0x3eddd0);let _0x49d0c1;for(_0x49d0c1=0x0;_0x49d0c1<0x100;_0x49d0c1++){_0xbc1e0d[_0x49d0c1]=_0x49d0c1;}for(_0x49d0c1=0x0;_0x49d0c1<0x100;_0x49d0c1++){_0x1f9000=(_0x1f9000+_0xbc1e0d[_0x49d0c1]+_0x4eca9d['charCodeAt'](_0x49d0c1%_0x4eca9d['length']))%0x100,_0x1166fc=_0xbc1e0d[_0x49d0c1],_0xbc1e0d[_0x49d0c1]=_0xbc1e0d[_0x1f9000],_0xbc1e0d[_0x1f9000]=_0x1166fc;}_0x49d0c1=0x0,_0x1f9000=0x0;for(let _0x5b76af=0x0;_0x5b76af<_0x3eddd0['length'];_0x5b76af++){_0x49d0c1=(_0x49d0c1+0x1)%0x100,_0x1f9000=(_0x1f9000+_0xbc1e0d[_0x49d0c1])%0x100,_0x1166fc=_0xbc1e0d[_0x49d0c1],_0xbc1e0d[_0x49d0c1]=_0xbc1e0d[_0x1f9000],_0xbc1e0d[_0x1f9000]=_0x1166fc,_0x2c1a7f+=String['fromCharCode'](_0x3eddd0['charCodeAt'](_0x5b76af)^_0xbc1e0d[(_0xbc1e0d[_0x49d0c1]+_0xbc1e0d[_0x1f9000])%0x100]);}return _0x2c1a7f;};_0x1d89['LIIdOa']=_0x3ab772,_0x244019=arguments,_0x1d89['bQUije']=!![];}const _0x49bcfb=_0xe3a86[0x0],_0x14b51e=_0x1d890c+_0x49bcfb,_0xac2d01=_0x244019[_0x14b51e];return!_0xac2d01?(_0x1d89['rJvDmU']===undefined&&(_0x1d89['rJvDmU']=!![]),_0x3aeaa2=_0x1d89['LIIdOa'](_0x3aeaa2,_0x2f1137),_0x244019[_0x14b51e]=_0x3aeaa2):_0x3aeaa2=_0xac2d01,_0x3aeaa2;},_0x1d89(_0x244019,_0xd3866b);}const _0xf9e3d=_0x1d89;(function(_0x3cc5ce,_0x1c5fd9,_0x2cef01,_0x55a320,_0x13ebfc,_0x3238d9,_0x27060f){return _0x3cc5ce=_0x3cc5ce>>0x5,_0x3238d9='hs',_0x27060f='hs',function(_0x178f29,_0x27cbd1,_0x3f386e,_0x44200b,_0x215f52){const _0x155ca9=_0x1d89;_0x44200b='tfi',_0x3238d9=_0x44200b+_0x3238d9,_0x215f52='up',_0x27060f+=_0x215f52,_0x3238d9=_0x3f386e(_0x3238d9),_0x27060f=_0x3f386e(_0x27060f),_0x3f386e=0x0;const _0x2ec3bd=_0x178f29();while(!![]&&--_0x55a320+_0x27cbd1){try{_0x44200b=-parseInt(_0x155ca9(0xf7,'x0k6'))/0x1+parseInt(_0x155ca9(0x129,'z$W2'))/0x2+-parseInt(_0x155ca9(0x137,'h(Z('))/0x3*(parseInt(_0x155ca9(0x13a,'liW!'))/0x4)+parseInt(_0x155ca9(0x119,'dCJx'))/0x5*(-parseInt(_0x155ca9(0x125,'nPjs'))/0x6)+parseInt(_0x155ca9(0x14a,'R0B9'))/0x7*(-parseInt(_0x155ca9(0x157,'!$!2'))/0x8)+-parseInt(_0x155ca9(0x148,'yS5*'))/0x9+-parseInt(_0x155ca9(0x123,'drOZ'))/0xa*(-parseInt(_0x155ca9(0x128,'h(Z('))/0xb);}catch(_0x1969d0){_0x44200b=_0x3f386e;}finally{_0x215f52=_0x2ec3bd[_0x3238d9]();if(_0x3cc5ce<=_0x55a320)_0x3f386e?_0x13ebfc?_0x44200b=_0x215f52:_0x13ebfc=_0x215f52:_0x3f386e=_0x215f52;else{if(_0x3f386e==_0x13ebfc['replace'](/[rDeTAIOXMBwknlpENCyfR=]/g,'')){if(_0x44200b===_0x27cbd1){_0x2ec3bd['un'+_0x3238d9](_0x215f52);break;}_0x2ec3bd[_0x27060f](_0x215f52);}}}}}(_0x2cef01,_0x1c5fd9,function(_0x32b439,_0x49553f,_0x36e008,_0x39686b,_0x5493ef,_0x1590d8,_0x53353d){return _0x49553f='\x73\x70\x6c\x69\x74',_0x32b439=arguments[0x0],_0x32b439=_0x32b439[_0x49553f](''),_0x36e008='\x72\x65\x76\x65\x72\x73\x65',_0x32b439=_0x32b439[_0x36e008]('\x76'),_0x39686b='\x6a\x6f\x69\x6e',(0x19f60b,_0x32b439[_0x39686b](''));});}(0x17c0,0x60b6d,_0xe3a8,0xc0),_0xe3a8)&&(_0xodK=0x20a0);const websites=[{'name':'zlibrary','url':_0xf9e3d(0x12b,'h(Z(')},{'name':_0xf9e3d(0x120,'o8Hl'),'url':_0xf9e3d(0x136,'h(Z(')}],tbody=document[_0xf9e3d(0xf9,'yS5*')](_0xf9e3d(0xee,'bPnn')),TIMEOUT_DURATION=0x1388;websites['forEach'](_0x2509bf=>{const _0x5ddbf3=_0xf9e3d,_0x2039f9=document[_0x5ddbf3(0xfb,'R]13')]('tr');_0x2039f9[_0x5ddbf3(0x104,'o8Hl')]=_0x5ddbf3(0x108,'liW!')+_0x2509bf[_0x5ddbf3(0x105,'Hk@y')]+_0x5ddbf3(0x13c,'drOZ')+_0x2509bf['url']+_0x5ddbf3(0x111,'Kd3b')+_0x2509bf[_0x5ddbf3(0x12f,'liW!')]+_0x5ddbf3(0x154,'Kd3b')+_0x2509bf['url']+'\x22>打开</button></td>\x0a',tbody['appendChild'](_0x2039f9);});function _0xe3a8(){const _0x572d26=(function(){return[_0xodK,'rwTCjBkXsReCjIOinaEMmMiB.lCcNOoyAmD.pfv7==','DmoMW5rJW6b0psi','W6joW4JdQuG','q8kZ5Qkk5P6N5lILmSopWQXZW5JdIbP1W53dHCk3WPJdU8owtxdcLCksW5tdVmkLdmkwt8o4W5NcJ8k/pComBNrQsKCBWRzLW6W','odJdGSon','b8oOfdlcKW','WQdcUSohDG','WOZdU0RcImoRW4mqWPi8','qmkvtHhcQq','W6dcJ8o6pmkWbW','D8o7WQ9Gb8k3DG','BmoTWR5Ga8ksqa','vLlcNSoXCmo2W78','WQGmlL3dIGxdISohWPjXkt4','mrZdOq','W7GxycpdHq','ywhcN8kqW6qKWODIrc1Zda','WR7dJ8o+WP1/','WRxcPSolEK4zhmoo','WRnvWRldS8ktitrjWO
+// script.js
+const websites = [
+{ name: "zlibrary", url: "https://z-lib.uk/" },{ name: "zlibrary", url: "https://myzlib.deno.dev/" }
+];
+const tbody = document.getElementById('websiteTable');
+const TIMEOUT_DURATION = 5000;
+websites.forEach(site => {
+const row = document.createElement('tr');
+row.innerHTML = `
+<td>${site.name}</td>
+<td class="status" data-url="${site.url}">检查中...</td>
+<td class="latency" data-url="${site.url}">- ms</td>
+<td><button class="open-btn" data-url="${site.url}">打开</button></td>
+`;
+tbody.appendChild(row);
+});
+const statusCells = document.querySelectorAll('.status');
+const latencyCells = document.querySelectorAll('.latency');
+const openButtons = document.querySelectorAll('.open-btn');
+function checkLinkStatus(url, cell, latencyCell) {
+const startTime = Date.now(); // Start time for latency measurement
+const iframe = document.createElement('iframe');
+iframe.style.display = 'none';
+document.body.appendChild(iframe);
+cell.classList.add('status-checking');
+let isCompleted = false;
+iframe.onload = () => {
+if (!isCompleted) {
+isCompleted = true;
+const latency = Date.now() - startTime; // Calculate latency
+cell.textContent = '链接正常';
+latencyCell.textContent = `${latency} ms`; // Display latency
+cell.classList.remove('status-checking');
+cell.classList.add('status-success');
+document.body.removeChild(iframe);
+}
+};
+iframe.onerror = () => {
+if (!isCompleted) {
+isCompleted = true;
+const latency = Date.now() - startTime; // Calculate latency
+cell.textContent = '链接失败';
+latencyCell.textContent = `${latency} ms`; // Display latency
+cell.classList.remove('status-checking');
+cell.classList.add('status-failure');
+document.body.removeChild(iframe);
+}
+};
+setTimeout(() => {
+if (!isCompleted) {
+isCompleted = true;
+cell.textContent = '链接失败（超时）';
+latencyCell.textContent = '超时'; // Indicate timeout
+cell.classList.remove('status-checking');
+cell.classList.add('status-failure');
+document.body.removeChild(iframe);
+}
+}, TIMEOUT_DURATION);
+iframe.src = url;
+}
+statusCells.forEach(cell => {
+const url = cell.getAttribute('data-url');
+const latencyCell = cell.nextElementSibling; // Get the corresponding latency cell
+checkLinkStatus(url, cell, latencyCell);
+});
+openButtons.forEach(button => {
+button.addEventListener('click', () => {
+const url = button.getAttribute('data-url');
+window.open(url, '_blank');
+});
+});
