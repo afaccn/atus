@@ -49,7 +49,7 @@ document.body.removeChild(iframe);
 setTimeout(() => {
 if (!isCompleted) {
 isCompleted = true;
-cell.textContent = '链接失败（超时）';
+cell.textContent = '链接失败';
 latencyCell.textContent = '超时'; // Indicate timeout
 cell.classList.remove('status-checking');
 cell.classList.add('status-failure');
