@@ -1,6 +1,6 @@
 // script.js
 const websites = [
-{ name: "zlibrary", url: "https://z-lib.uk/" },{ name: "zlibrary", url: "https://zlib.pl" },{ name: "zlibrary", url: "https://myzlib.deno.dev/" }
+{ name: "z-library", url: "https://z-lib.uk/" },{ name: "z-library", url: "https://zlib.pl" },{ name: "z-library", url: "https://myzlib.deno.dev/" }
 ];
 const tbody = document.getElementById('websiteTable');
 const TIMEOUT_DURATION = 5000;
